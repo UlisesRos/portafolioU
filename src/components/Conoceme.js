@@ -59,7 +59,7 @@ function Conoceme() {
                     marginBottom='50px'
                     data-aos="fade-up-left"
                     >
-                    I am new to the world of web development, but I have been putting in time and effort to learn and grow in this area. I have successfully completed three courses that have provided me with a solid foundation in technologies and good practices. I am very excited to apply everything I have learned and put it into practice in real projects. My goal is to gain experience working and continue developing my skills in the field. I am committed and motivated to contribute and learn in a professional environment, and I am ready to take on new challenges in web development.
+                    I'm new to the world of web development, but I have been putting in time and effort to learn and grow in this area. I have successfully completed three courses that have provided me with a solid foundation in technologies and good practices. I am very excited to apply everything I have learned and put it into practice in real projects. My goal is to gain experience working and continue developing my skills in the field. I am committed and motivated to contribute and learn in a professional environment, and I am ready to take on new challenges in web development.
                 </Text>
             </Flex>
         </Box>

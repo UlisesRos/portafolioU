@@ -23,17 +23,31 @@ function Hablame() {
                     alignItems='center'
                     justifyContent='space-between'
                     >
-                    <Link
-                        to='/rutas'
+                    <Box
+                        display='flex'
+                        justifyContent='center'
+                        alignItems='center'
+                        w='110px'
                         >
-                        <Image src={ulisesr} alt='logo de Ulises' />
-                    </Link>
-                    <Image src={avatar} alt='avatar de ulises' w='110px' h='110px' position='relative' top='50px'/>
-                    <Link
-                        to='/rutas'
+                        <Link
+                            to='/rutas'
+                            >
+                            <Image src={ulisesr} alt='logo de Ulises' />
+                        </Link>
+                    </Box>
+                    <Image src={avatar} alt='avatar de ulises' w='110px' h='110px' position='relative' top='50px' />
+                    <Box
+                        display='flex'
+                        justifyContent='center'
+                        alignItems='center'
+                        w='110px'
                         >
-                        <Image src={flecha} alt='volver' />
-                    </Link>
+                        <Link
+                            to='/rutas'
+                            >
+                            <Image src={flecha} alt='volver' h='40px' w='40px' />
+                        </Link>
+                    </Box>
                 </Box>
             </Flex>
             <Flex

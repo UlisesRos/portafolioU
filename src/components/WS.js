@@ -7,7 +7,7 @@ function WS() {
         <Box
             position='fixed'
             bottom='30px'
-            right='50px'
+            right={['35px','50px','50px']}
             zIndex='1000'
             >
             <Link
