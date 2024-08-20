@@ -1,0 +1,19 @@
+.custom-popup {
+    background-color: #6E07F3;
+}
+
+.custom-image {
+    width: 90%;
+    border-radius: 10px;
+}
+
+.custom-confirm-button {
+    background-color: #6E07F3;
+    border: 1px solid white;
+    color: white;
+}
+
+:hover.custom-confirm-button {
+    background-color: white;
+    color: #6E07F3;
+}
